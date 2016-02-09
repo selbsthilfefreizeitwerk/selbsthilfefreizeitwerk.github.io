@@ -23,3 +23,41 @@ title: satzung
     in der jeweils gültigen Fassung.
     
     Zweck des Vereins ist:
+    Der Verein ist Träger von Maßnahmen sozialer 
+    und pädagogischer Bildungsarbeit.
+    Als Schwerpunkt strebt der Verein an_
+    (a) Unterhaltung eines Freizeithauses
+    (b) Maßnahmen zur sinnvollen Freizeitgestaltung
+        aller Altersgruppen, sportliche Übung, musi-
+        schen Betätigung, Teilnahme an Neigungs-
+        gruppen, Fahrt und Lager, Treffen, Seminare
+        und internationale Begegnung,
+    (c) Fortbildungsmaßnahmen,
+    (d) Seminare zur Jugendgruppenleiterausbildung,
+    (e) Durchführung von fachspezifischen Seminaren
+        und Tagungen.
+(2) Der Verein kann seine Betreuungsmaßnahmen 
+    ambulant und stationär erbringen.
+(3) Der Satzungszweck wird verwirklicht insbesondere
+    durch die Unterhaltung einer Begegnungsstätte.
+
+## § 3 Selbstlosigkeit
+(1) Der Verein ist selbstlos tätig, er verfolgt nicht in 
+    erster Linie eigenwirtschaftliche Zwecke.
+(2) Mittel des Vereins dürfen nur für die satzungsmä-
+    ßigen Zwecke verwendet werden.
+    Die Mitglieder dürfen in ihrer Eigenschaft als 
+    Mitglieder keine Zuwendungen aus Mitteln des 
+    Vereins erhalten.
+(3) Die Mitglieder des Vereins dürfen bei ihrem Aus-
+    scheiden oder bei Auflösung oder Aufhebung des
+    Vereins keine Anteile des Vereinsvermögens er-
+    halten.
+(4) Es darf keine Person durch Ausgaben, die dem
+    Zweck des Vereins fremd sind, oder durch unver-
+    hältnismäßig hohe Vergütungen begünstigt werden.
+    
+## 4 Mitgliedschaft
+
+    
+        
