@@ -25,15 +25,20 @@ title: satzung
 Zweck des Vereins ist:
 Der Verein ist Träger von Maßnahmen sozialer 
 und pädagogischer Bildungsarbeit.
-Als Schwerpunkt strebt der Verein an_
+Als Schwerpunkt strebt der Verein an
+
 (a) Unterhaltung eines Freizeithauses
+
 (b) Maßnahmen zur sinnvollen Freizeitgestaltung
     aller Altersgruppen, sportliche Übung, musi-
     schen Betätigung, Teilnahme an Neigungs-
     gruppen, Fahrt und Lager, Treffen, Seminare
     und internationale Begegnung,
+    
 (c) Fortbildungsmaßnahmen,
+
 (d) Seminare zur Jugendgruppenleiterausbildung,
+
 (e) Durchführung von fachspezifischen Seminaren
     und Tagungen.
         
