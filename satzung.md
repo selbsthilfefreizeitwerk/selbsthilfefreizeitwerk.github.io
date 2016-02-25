@@ -199,7 +199,7 @@ i) Auflösung des Vereins.
     
 ## § 10 Beurkundung von Beschlüssen
 
-Die in Vorstandssitzungen und in Mitgliederversammlungen gefassten Beschlüsse sind schriftlich nieder-
+Die in Vorstandssitzungen und in Mitgliederversammlungen gefassten Beschlüsse sind schriftlich nieder
 zulegen und von dem jeweiligen Versammlungsleiter und dem Protokollführer der Sitzung zu unterzeichnen.
 
 ## § 11 Auflösung des Vereins und Vermögensbindung
