@@ -110,8 +110,8 @@ Organe des Vereins sind:
 Vorstand im Sinne des § 26 BGB sind:
 
 (1) Der Vorstand besteht aus drei Mitgliedern. Er fasst seine Beschlüsse mit einfacher Mehrheit.
-    Er ist beschlussfähig, wenn mindestens zwei seiner Mitglieder erschienen sind. Bei Stimmen
-    gleichheit entscheidet die Stimme des an Lebensjahren ältesten Vorstandsmitgliedes.
+    Er ist beschlussfähig, wenn mindestens zwei seiner Mitglieder erschienen sind. Bei Stimmengleichheit 
+    entscheidet die Stimme des an Lebensjahren ältesten Vorstandsmitgliedes.
 
 (2) Der Vorstand vertritt den Verein gerichtlich und außergerichtlich; jeweils zwei
     seiner Mitglieder sind gemeinsam vertretungsberechtigt.
@@ -141,8 +141,8 @@ Vorstand im Sinne des § 26 BGB sind:
     Angabe des Zwecks und der Gründe verlangt wird.
     
 (3) Die Einberufung der Mitgliederversammlung erfolgt schriftlich per Post bzw. per E-Mail, sofern
-    das Mitglied dem E-Mailversand zugestimmt hat, durch den Vorstand unter Wahrung einer Einladungs-
-    frist von mindestens zwei Wochen bei gleichzeitiger Bekanntgabe der Tagesordnung. Die Frist beginnt
+    das Mitglied dem E-Mailversand zugestimmt hat, durch den Vorstand unter Wahrung einer Einladungsfrist 
+    von mindestens zwei Wochen bei gleichzeitiger Bekanntgabe der Tagesordnung. Die Frist beginnt
     mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Bei schriftlichem Versand per Post 
     gilt das Datum des Poststempels, bei E-Mailversand das Sendedatum der E-Mail. Das Einladungsschreiben
     gilt dem Mitglied als zugegangen, wenn es an die letzte dem Verein vom Mitglied schriftlich bekannt-
