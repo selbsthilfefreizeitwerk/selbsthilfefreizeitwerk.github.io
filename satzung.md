@@ -108,9 +108,49 @@ Organe des Vereins sind:
 ## § 7 Vorstand
 
 Vorstand im Sinne des § 26 BGB sind:
+
 (1) Der Vorstand besteht aus drei Mitgliedern. Er faßt seine Beschlüsse mit einfacher Mehrheit.
     Er ist beschlußfähig, wenn mindestens zwei seiner Mitglieder erschienen sind. Bei Stimmen-
     gleichheit entscheidet die Stimme des an Lebensjahren ältesten Vorstandsmitgliedes.
+
+(2) Der Vorstand vertritt den Verein gerichtlich und außergerichtlich; jeweils zwei
+    seiner Mitglieder sind gemeinsam vertretungsberechtigt.
+    
+(3) Ein Vorstandsbeschluß kann auf schriftlichem Wege gefaßt werden, wenn alle Vorstandsmitglieder
+    ihre Zustimmung zu diesem Verfahren erklären.
+    
+(4) Der Vorstand wird auf die Dauer von zwei Jahren gewählt. Er bleibt so lange im Amt, bis
+    ein neuer Vorstand gewählt ist.
+    
+(5) Scheidet ein Vorstandsmitglied vor Ablauf seiner Amtstätigkeit aus, so ist der Vorstand
+    berechtigt, sich höchstens um ein Mitglied selbst zu ergänzen. Die Amtszeit des in dieser
+    Weise berufenen Vorstandsmitglieds gilt bis zur nächsten Mitgliederversammlung.
+
+(6) Der Vorstand kann während seiner Amtszeit auf einer Mitgliederversammlung mit 2/3 der
+    Stimmmen der anwesenden Mitglieder durch Wahl eines neuen Vorstandes abgelöst werden.
+    
+(7) Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch
+    die Satzung einem anderen Vereinsorgan zugewiesen sind.
+    
+## § 8 Mitgliederversammlung
+
+(1) Die Mitgliederversammlung ist einmal jährlich einzuberufen.
+
+(2) Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse 
+    erfordert oder wenn die Einberufung von 20 % der Vereinsmitglieder schriftlich und unter
+    Angabe des Zwecks und der Gründe verlangt wird.
+    
+(3) Die Einberufung der Mitgliederversammlung erfolgt schriftlich per Post bzw. per E-Mail, sofern
+    das Mitglied dem E-Mailversand zugestimmt hat, durch den Vorstand unter Wahrung einer Einladungs-
+    frist von mindestens zwei Wochen bei gleichzeitiger Bekanntgabe der Tagesordnung. Die Frist beginnt
+    mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Bei schriftlichem Versand per Post 
+    gilt das Datum des Poststempels, bei E-Mailversand das Sendedatum der E-Mail. Das Einladungsschreiben
+    gilt dem Mitglied als zugegangen, wenn es an die letzte dem Verein vom Mitglied schriftlich bekannt-
+    gegebene postalische Adresse bzw. E-Mailadresse gerichtet ist.
+    
+    (4) Die Mitgliederversammlung als das oberste Beschluss fassende Vereinsorgan ist grundsätzlich
+    
+
 
 
     
