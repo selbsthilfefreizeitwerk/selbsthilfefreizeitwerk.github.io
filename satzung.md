@@ -95,5 +95,23 @@ Als Schwerpunkt strebt der Verein an
     
 ## § 5 Beiträge
 
+Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung (§8).
+Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitglieder-
+versammlung anwesenden stimmberechtigten Vereinsmitglieder erforderlich.
+
+## § 6 Organe des Vereins
+
+Organe des Vereins sind:
+- die Mitgliederversammlung
+- der Vorstand.
+
+## § 7 Vorstand
+
+Vorstand im Sinne des § 26 BGB sind:
+(1) Der Vorstand besteht aus drei Mitgliedern. Er faßt seine Beschlüsse mit einfacher Mehrheit.
+    Er ist beschlußfähig, wenn mindestens zwei seiner Mitglieder erschienen sind. Bei Stimmen-
+    gleichheit entscheidet die Stimme des an Lebensjahren ältesten Vorstandsmitgliedes.
+
+
     
         
