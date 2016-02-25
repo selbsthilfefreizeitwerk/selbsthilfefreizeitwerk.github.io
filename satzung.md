@@ -2,7 +2,7 @@
 layout: default
 title: satzung
 ---
-# Satzung des Vereins
+# Satzung des Vereins Selbsthilfe Freizeitwerk e.V. (Stand: 2013)
 
 ## § 1 Name, Sitz, Eintragung, Geschäftsjahr
 
@@ -30,10 +30,9 @@ Als Schwerpunkt strebt der Verein an
 (a) Unterhaltung eines Freizeithauses
 
 (b) Maßnahmen zur sinnvollen Freizeitgestaltung
-    aller Altersgruppen, sportliche Übung, musi-
-    schen Betätigung, Teilnahme an Neigungs-
-    gruppen, Fahrt und Lager, Treffen, Seminare
-    und internationale Begegnung,
+    aller Altersgruppen, sportliche Übung, musischen Betätigung, 
+    Teilnahme an Neigungsgruppen, Fahrt und Lager, Treffen, 
+    Seminare und internationale Begegnung,
     
 (c) Fortbildungsmaßnahmen,
 
@@ -96,13 +95,14 @@ Als Schwerpunkt strebt der Verein an
 ## § 5 Beiträge
 
 Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung (§8).
-Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitglieder-
+Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitglieder
 versammlung anwesenden stimmberechtigten Vereinsmitglieder erforderlich.
 
 ## § 6 Organe des Vereins
 
 Organe des Vereins sind:
 - die Mitgliederversammlung
+
 - der Vorstand.
 
 ## § 7 Vorstand
@@ -157,7 +157,7 @@ Vorstand im Sinne des § 26 BGB sind:
     Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis 
     vor der Mitgliederversammlung zu berichten.
     
-    Die Mitgliederversammlung entscheidet z.B. auch über:
+Die Mitgliederversammlung entscheidet z.B. auch über:
     a) den jährlichen Vereinshaushaltsplan, der vom Vorstand aufgestellt wurde,
     b) die Aufgaben des Vereins,
     c) An- und Verkauf sowie Belastung von Grundbesitz,
@@ -205,7 +205,6 @@ zulegen und von dem jeweiligen Versammlungsleiter und dem Protokollführer der S
     verwenden hat.
     
     
-    St. Augustin,        (Unterschriften)
 
     
     
