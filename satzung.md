@@ -109,14 +109,14 @@ Organe des Vereins sind:
 
 Vorstand im Sinne des § 26 BGB sind:
 
-(1) Der Vorstand besteht aus drei Mitgliedern. Er faßt seine Beschlüsse mit einfacher Mehrheit.
-    Er ist beschlußfähig, wenn mindestens zwei seiner Mitglieder erschienen sind. Bei Stimmen-
+(1) Der Vorstand besteht aus drei Mitgliedern. Er fasst seine Beschlüsse mit einfacher Mehrheit.
+    Er ist beschlussfähig, wenn mindestens zwei seiner Mitglieder erschienen sind. Bei Stimmen
     gleichheit entscheidet die Stimme des an Lebensjahren ältesten Vorstandsmitgliedes.
 
 (2) Der Vorstand vertritt den Verein gerichtlich und außergerichtlich; jeweils zwei
     seiner Mitglieder sind gemeinsam vertretungsberechtigt.
     
-(3) Ein Vorstandsbeschluß kann auf schriftlichem Wege gefaßt werden, wenn alle Vorstandsmitglieder
+(3) Ein Vorstandsbeschluss kann auf schriftlichem Wege gefasst werden, wenn alle Vorstandsmitglieder
     ihre Zustimmung zu diesem Verfahren erklären.
     
 (4) Der Vorstand wird auf die Dauer von zwei Jahren gewählt. Er bleibt so lange im Amt, bis
