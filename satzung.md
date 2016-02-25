@@ -148,7 +148,66 @@ Vorstand im Sinne des § 26 BGB sind:
     gilt dem Mitglied als zugegangen, wenn es an die letzte dem Verein vom Mitglied schriftlich bekannt-
     gegebene postalische Adresse bzw. E-Mailadresse gerichtet ist.
     
-    (4) Die Mitgliederversammlung als das oberste Beschluss fassende Vereinsorgan ist grundsätzlich
+(4) Die Mitgliederversammlung als das oberste Beschluss fassende Vereinsorgan ist grundsätzlich für alle
+    Aufgaben zuständig, sofern bestimmte Aufgaben gemäß dieser Satzung nicht einem anderen Vereinsorgan
+    übertragen wurden.
+    Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlußfassung über die 
+    Genehmigung und Entlastung des Vorstands schriftlich vorzulegen. Sie bestellt zwei Rechnungsprüfer, die
+    weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des
+    Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis 
+    vor der Mitgliederversammlung zu berichten.
+    
+    Die Mitgliederversammlung entscheidet z.B. auch über:
+    a) den jährlichen Vereinshaushaltsplan, der vom Vorstand aufgestellt wurde,
+    b) die Aufgaben des Vereins,
+    c) An- und Verkauf sowie Belastung von Grundbesitz,
+    d) Beteiligung an Gesellschaften,
+    e) Aufnahme von Darlehn ab € 1000,-,
+    f) Genehmigung alller Geschäftsordnungen für den Vereinsbereich,
+    g) Mitgliederbeiträge (§ 5),
+    h) Satzungsänderungen,
+    i) Auflösung des Vereins.
+
+(5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlußfähig anerkannt, ohne Rücksicht
+    auf die Zahl der erschienenen Vereinsmitglieder.
+    Jedes Mitglied hat 1 Stimme.
+    Das Stimmrecht ist nicht übertragbar.
+    
+(6) Die Mitgliederversammlung faßt Ihre Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit
+    gilt ein Antrag als abgelehnt.
+    
+## § 9 Satzungsänderung
+
+(1) Für Satzungsänderungen ist eine 3/4 Mehrheit der erschienenen Vereinsmitglieder erforderlich.
+    Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen
+    Tagesordnungspunkt bereits in der Einladung zur Mitgliederversammlung hingewiesen wurde und der
+    Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext beigfügt worden waren.
+    
+(2) Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen 
+    verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen allen
+    Vereinsmitgliedern alsbald schriftlich mitgeteilt werden.
+    
+## § 10 Berukundung von Beschlüssen
+
+Die in Vorstandssitzungen und in Mitgliederversammlungen gefassten Beschlüsse sind schriftlich nieder-
+zulegen und von dem jeweiligen Versammlungsleiter und dem Protokollführer der Sitzung zu unterzeichnen.
+
+## § 11 Auflösung des Vereins und Vermögensbindung
+
+(1) Für den Beschluss, den Verein aufzulösen, ist eine 3/4 Mehrheit der in der Mitgliederversammlung
+    anwesenden Mitglieder erforderlich.
+    Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung
+    gefasst werden.
+    
+(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall seines bisherigen Zwecks fällt das 
+    Vermögen des Vereins an den Deutschen Paritätischen Wohlfahrtsverband, Gruppe Nordrhein-Westfalen,
+    der es ausschließlich und unmittelbar für gemeinnützige bzw. mildtätige Wohlfahrtszwecke zu 
+    verwenden hat.
+    
+    
+    St. Augustin,        (Unterschriften)
+
+    
     
 
 
