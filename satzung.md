@@ -101,6 +101,7 @@ versammlung anwesenden stimmberechtigten Vereinsmitglieder erforderlich.
 ## § 6 Organe des Vereins
 
 Organe des Vereins sind:
+
 - die Mitgliederversammlung
 
 - der Vorstand.
@@ -196,7 +197,7 @@ i) Auflösung des Vereins.
     verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen allen
     Vereinsmitgliedern alsbald schriftlich mitgeteilt werden.
     
-## § 10 Berukundung von Beschlüssen
+## § 10 Beurkundung von Beschlüssen
 
 Die in Vorstandssitzungen und in Mitgliederversammlungen gefassten Beschlüsse sind schriftlich nieder-
 zulegen und von dem jeweiligen Versammlungsleiter und dem Protokollführer der Sitzung zu unterzeichnen.
