@@ -151,22 +151,31 @@ Vorstand im Sinne des § 26 BGB sind:
 (4) Die Mitgliederversammlung als das oberste Beschluss fassende Vereinsorgan ist grundsätzlich für alle
     Aufgaben zuständig, sofern bestimmte Aufgaben gemäß dieser Satzung nicht einem anderen Vereinsorgan
     übertragen wurden.
-    Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlußfassung über die 
+    Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlussfassung über die 
     Genehmigung und Entlastung des Vorstands schriftlich vorzulegen. Sie bestellt zwei Rechnungsprüfer, die
     weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des
     Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis 
     vor der Mitgliederversammlung zu berichten.
     
 Die Mitgliederversammlung entscheidet z.B. auch über:
-    a) den jährlichen Vereinshaushaltsplan, der vom Vorstand aufgestellt wurde,
-    b) die Aufgaben des Vereins,
-    c) An- und Verkauf sowie Belastung von Grundbesitz,
-    d) Beteiligung an Gesellschaften,
-    e) Aufnahme von Darlehn ab € 1000,-,
-    f) Genehmigung alller Geschäftsordnungen für den Vereinsbereich,
-    g) Mitgliederbeiträge (§ 5),
-    h) Satzungsänderungen,
-    i) Auflösung des Vereins.
+
+a) den jährlichen Vereinshaushaltsplan, der vom Vorstand aufgestellt wurde,
+
+b) die Aufgaben des Vereins,
+
+c) An- und Verkauf sowie Belastung von Grundbesitz,
+
+d) Beteiligung an Gesellschaften, 
+
+e) Aufnahme von Darlehn ab € 1000,-,
+    
+f) Genehmigung alller Geschäftsordnungen für den Vereinsbereich,
+
+g) Mitgliederbeiträge (§ 5),
+
+h) Satzungsänderungen,
+
+i) Auflösung des Vereins.
 
 (5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlußfähig anerkannt, ohne Rücksicht
     auf die Zahl der erschienenen Vereinsmitglieder.
