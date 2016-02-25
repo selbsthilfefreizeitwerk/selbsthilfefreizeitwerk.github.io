@@ -6,7 +6,7 @@ title: satzung
 
 ## § 1 Name, Sitz, Eintragung, Geschäftsjahr
 
-(1) Der Verein trägt den Namen Selbsthilfe-Freizeitwerk.
+(1) Der Verein trägt den Namen Selbsthilfe Freizeitwerk.
 
 (2) Er hat den Sitz in 48136 Münster.
 
