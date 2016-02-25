@@ -95,8 +95,7 @@ Als Schwerpunkt strebt der Verein an
 ## § 5 Beiträge
 
 Die Mitglieder zahlen Beiträge nach Maßgabe eines Beschlusses der Mitgliederversammlung (§8).
-Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitglieder
-versammlung anwesenden stimmberechtigten Vereinsmitglieder erforderlich.
+Zur Festlegung der Beitragshöhe und -fälligkeit ist eine einfache Mehrheit der in der Mitgliederversammlung anwesenden stimmberechtigten Vereinsmitglieder erforderlich.
 
 ## § 6 Organe des Vereins
 
