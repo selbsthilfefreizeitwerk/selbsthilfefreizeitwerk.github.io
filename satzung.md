@@ -2,7 +2,7 @@
 layout: default
 title: satzung
 ---
-# Satzung des Vereins Selbsthilfe Freizeitwerk e.V. (Abschrift) (Stand: 2013)
+# Satzung des Vereins Selbsthilfe Freizeitwerk e.V. (Abschrift) Stand: 2013
 
 ## § 1 Name, Sitz, Eintragung, Geschäftsjahr
 
