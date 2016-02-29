@@ -1,0 +1,7 @@
+name: Selbsthilfe-Freizeitwerk e.V.
+markdown: kramdown
+exclude:
+  - CNAME
+  - README.md
+gems:
+  - jemoji
