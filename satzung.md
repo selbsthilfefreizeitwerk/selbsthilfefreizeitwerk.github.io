@@ -127,7 +127,7 @@ Vorstand im Sinne des § 26 BGB sind:
     Weise berufenen Vorstandsmitglieds gilt bis zur nächsten Mitgliederversammlung.
 
 (6) Der Vorstand kann während seiner Amtszeit auf einer Mitgliederversammlung mit 2/3 der
-    Stimmmen der anwesenden Mitglieder durch Wahl eines neuen Vorstandes abgelöst werden.
+    Stimmen der anwesenden Mitglieder durch Wahl eines neuen Vorstandes abgelöst werden.
     
 (7) Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch
     die Satzung einem anderen Vereinsorgan zugewiesen sind.
@@ -169,7 +169,7 @@ d) Beteiligung an Gesellschaften,
 
 e) Aufnahme von Darlehn ab € 1000,-,
     
-f) Genehmigung alller Geschäftsordnungen für den Vereinsbereich,
+f) Genehmigung aller Geschäftsordnungen für den Vereinsbereich,
 
 g) Mitgliederbeiträge (§ 5),
 
@@ -177,12 +177,12 @@ h) Satzungsänderungen,
 
 i) Auflösung des Vereins.
 
-(5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlußfähig anerkannt, ohne Rücksicht
+(5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlussfähig anerkannt, ohne Rücksicht
     auf die Zahl der erschienenen Vereinsmitglieder.
     Jedes Mitglied hat 1 Stimme.
     Das Stimmrecht ist nicht übertragbar.
     
-(6) Die Mitgliederversammlung faßt Ihre Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit
+(6) Die Mitgliederversammlung fasst Ihre Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit
     gilt ein Antrag als abgelehnt.
     
 ## § 9 Satzungsänderung
@@ -190,7 +190,7 @@ i) Auflösung des Vereins.
 (1) Für Satzungsänderungen ist eine 3/4 Mehrheit der erschienenen Vereinsmitglieder erforderlich.
     Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen
     Tagesordnungspunkt bereits in der Einladung zur Mitgliederversammlung hingewiesen wurde und der
-    Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext beigfügt worden waren.
+    Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext beigefügt worden waren.
     
 (2) Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen 
     verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen allen
