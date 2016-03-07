@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Selbsthilfe-Freizeitwerk e.V.
+title: Home
 ---
 
 
