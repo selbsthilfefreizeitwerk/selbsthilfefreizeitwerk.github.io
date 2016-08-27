@@ -31,4 +31,4 @@ Außerdem werden bei einer Freizeit eventuell entstandene Überschüsse den teil
 
 ### Beitrittserklärung
 
-<a href="pdf/2016_01_Beitrittserklaerung_mLogo.pdf">als pdf herunterladen</a>
+<a href="pdf/2016_Beitrittserklaerung.pdf">als pdf herunterladen</a>
