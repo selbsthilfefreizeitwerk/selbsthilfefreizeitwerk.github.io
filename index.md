@@ -17,7 +17,8 @@ Die aktuellen Freizeittermine findet Ihr unter <a href="http://www.a-freizeiten.
 
 ### Satzung des Vereins
 
-## Die Satzung des Vereins wird derzeit datenschutzrechtlich angepasst und dann wieder eingestellt!
+Die Satzung finden Sie <a href="/satzung">hier</a> und können Sie als
+<a href="pdf/SelbsthilfeFreizeitwerk2013Satzung.pdf">pdf</a> herunterladen.
 
 ### Mitgliedschaft
 
@@ -30,4 +31,4 @@ Außerdem werden bei einer Freizeit eventuell entstandene Überschüsse den teil
 
 ### Beitrittserklärung
 
-## Da die Satzung des Vereins derzeit datenschutzrechtlich angepasst wird, steht die Beitrittserklärung vorübergehend nicht zur Verfügung!
+## Die Beitrittserklärung steht in Kürze wieder zur Verfügung!
