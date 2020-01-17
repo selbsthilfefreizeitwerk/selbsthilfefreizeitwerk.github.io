@@ -23,7 +23,7 @@
         <p class="header">Homepage des Selbsthilfe-Freizeitwerk e.V.</p>
         <nav>
         {% for p in site.pages %}
-        {% if p.title == "error" or p.title == "Impressum" %}
+        {% if p.title == "error" or p.title == "" or p.title == "Impressum" %}
         {% else %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li>
         {% endif %}
