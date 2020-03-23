@@ -21,4 +21,4 @@ Der Selbsthilfe-Freizeitwerk e.V. als verantwortliche Stelle nutzt die in der Be
 
 Verantwortlich im Sinne des Art. 13 Abs 1 lit. a) DS-GVO: 
 
-Klaus Oltmanns, Helmstrasse 4, 10827 Berlin
+Anne Schulz, Wartbergstraße 43, 74076 Heilbronn
