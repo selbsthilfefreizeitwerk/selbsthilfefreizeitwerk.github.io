@@ -13,7 +13,7 @@ Die Freizeiten stehen auch Nichtmitgliedern offen, sofern sie die Voraussetzunge
 
 ### Freizeittermine
 
-Die aktuellen Freizeittermine findet Ihr unter <a href="http://www.a-freizeiten.de">www.a-freizeiten.de</a>
+Die aktuellen Freizeittermine findet Ihr unter <a href="https://www.a-freizeiten.de">https://www.a-freizeiten.de/freizeittermine</a>
 
 ### Satzung des Vereins
 
