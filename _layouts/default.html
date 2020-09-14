@@ -22,7 +22,8 @@
         <a href="index.html"><img src="images/logo-selbsthilfe-freizeitwerk.jpg"></a>
         <p class="header">Homepage des Selbsthilfe-Freizeitwerk e.V.</p>
         <nav>
-        {% for p in site.pages %}
+ 	        <li><a href="https://www.a-freizeiten.de">A-Freizeiten</a></li>		      
+	    {% for p in site.pages %}
         {% if p.title == "error" or p.title == "" or p.title == "Impressum" %}
         {% else %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li>
