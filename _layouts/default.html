@@ -24,7 +24,7 @@
         <nav>
  	        <li><a href="https://www.a-freizeiten.de">A-Freizeiten</a></li>		      
 	    {% for p in site.pages %}
-        {% if p.title == "error" or p.title == "" or p.title == "Impressum" %}
+        {% if p.title == "error" or p.title == "" or p.title == "Impressum" or p.url == "/assets/css/style.css" %}
         {% else %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li>
         {% endif %}
