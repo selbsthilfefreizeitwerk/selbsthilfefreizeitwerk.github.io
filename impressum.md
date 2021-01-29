@@ -15,3 +15,6 @@ Er ist in das Vereinsregister beim Amtsgericht Münster eingetragen.
 c/o Anne Schulz<br>
 Wartbergstraße 43<br>
 74076 Heilbronn
+
+
+### Trotz sorgfältiger Prüfung kann der Verein keine Haftung für Inhalte externer Links übernehmen.
