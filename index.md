@@ -24,7 +24,7 @@ Die Satzung finden Sie <a href="/satzung">hier</a> und können Sie als
 
 Wer dem Freizeitverein beitreten möchte, was aber von der Freizeitanmeldung unabhängig ist,
 kann per e-mail vorstand@selbsthilfe-freizeitwerk.de mit uns in Kontakt treten.
-Der Jahresbeitrag liegt zur Zeit bei EUR 9,--.
+Der Jahresbeitrag liegt zur Zeit bei EUR 15,--.
 Vereinsmitglieder haben Vorrang bei der Platzvergabe, sie bekommen die Einladungen für die
 Freizeiten per Post oder e-mail zugesandt.
 Außerdem werden bei einer Freizeit eventuell entstandene Überschüsse den teilnehmenden Vereinsmitgliedern erstattet.
