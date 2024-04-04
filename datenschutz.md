@@ -21,4 +21,7 @@ Der Selbsthilfe-Freizeitwerk e.V. als verantwortliche Stelle nutzt die in der Be
 
 Verantwortlich im Sinne des Art. 13 Abs 1 lit. a) DS-GVO: 
 
-Anne Schulz, Wartbergstraße 43, 74076 Heilbronn
+Selbsthilfe Freizeitwerk e.V.
+c/o Eva Heymann
+Engelthaler Str. 76
+60435 Frankfurt
