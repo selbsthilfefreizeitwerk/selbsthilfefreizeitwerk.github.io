@@ -12,9 +12,10 @@ Er ist in das Vereinsregister beim Amtsgericht Münster eingetragen.
 
 ### Vorstand:
 
-c/o Anne Schulz<br>
-Wartbergstraße 43<br>
-74076 Heilbronn
+Selbsthilfe Freizeitwerk e.V.<br>
+c/o Eva Heymann<br>
+Engelthaler Str. 76<br>
+60435 Frankfurt
 
 
 ### Trotz sorgfältiger Prüfung kann der Verein keine Haftung für Inhalte externer Links übernehmen.
