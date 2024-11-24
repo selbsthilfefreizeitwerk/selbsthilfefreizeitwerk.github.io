@@ -14,7 +14,7 @@ Er ist in das Vereinsregister beim Amtsgericht Münster eingetragen.
 
 Selbsthilfe Freizeitwerk e.V.<br>
 c/o Eva Heymann<br>
-Im Niederfeld 8 60437<br>Frankfurt am Main
+Im Niederfeld 8<br>60437 Frankfurt am Main
 
 
 ### Trotz sorgfältiger Prüfung kann der Verein keine Haftung für Inhalte externer Links übernehmen.
