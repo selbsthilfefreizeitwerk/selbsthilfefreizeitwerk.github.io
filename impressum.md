@@ -1,4 +1,4 @@
----
+  ---
 layout: default
 title: Impressum
 ---
@@ -14,8 +14,7 @@ Er ist in das Vereinsregister beim Amtsgericht Münster eingetragen.
 
 Selbsthilfe Freizeitwerk e.V.<br>
 c/o Eva Heymann<br>
-Engelthaler Str. 76<br>
-60435 Frankfurt
+Im Niederfeld 8 60437<br>Frankfurt am Main
 
 
 ### Trotz sorgfältiger Prüfung kann der Verein keine Haftung für Inhalte externer Links übernehmen.
