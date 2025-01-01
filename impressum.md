@@ -12,7 +12,7 @@ Er ist in das Vereinsregister beim Amtsgericht Münster eingetragen.
 
 ### Vorstand:
 
-<b>Selbsthilfe Freizeitwerk e.V.</b><br>
+Selbsthilfe Freizeitwerk e.V.<br>
 c/o Eva Heymann<br>
 Im Niederfeld 8<br>60437 Frankfurt am Main
 
