@@ -18,7 +18,7 @@ Die aktuellen Freizeittermine findet Ihr unter <a href="https://www.a-freizeiten
 ### Satzung des Vereins
 
 Die Satzung finden Sie <a href="/satzung">hier</a> und können Sie als
-<a href="pdf/SelbsthilfeFreizeitwerk2013Satzung.pdf">pdf</a> herunterladen.
+<a href="pdf/Satzung_aktuell_Selbsthilfe_Freizeitwerk_eV_2025scan.pdf">pdf</a> herunterladen.
 
 ### Mitgliedschaft
 
