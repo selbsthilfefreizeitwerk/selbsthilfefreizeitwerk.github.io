@@ -221,7 +221,7 @@ zulegen und von dem jeweiligen Versammlungsleiter und dem Protokollführer der S
     
  Freusburg/Kirchen, 29.12.2024
 
-[Satzung PDF mit Unterschriften](/pdf/"Satzung_aktuell_Selbsthilfe_Freizeitwerk_eV_2025scan".pdf)
+[Satzung PDF mit Unterschriften](/pdf/Satzung_aktuell_Selbsthilfe_Freizeitwerk_eV_2025scan.pdf)
 
     
     
