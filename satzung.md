@@ -2,7 +2,7 @@
 layout: default
 title: Satzung
 ---
-# Satzung des Vereins Selbsthilfe Freizeitwerk e.V. (Abschrift) Stand: 2013
+# Satzung des Vereins Selbsthilfe Freizeitwerk e.V. (Abschrift) Stand: 2025
 
 ## § 1 Name, Sitz, Eintragung, Geschäftsjahr
 
@@ -91,6 +91,9 @@ Als Schwerpunkt strebt der Verein an
     aktuelle Kontoverbindung nicht innerhalb eines Monats mit, endet die Mitgliedschaft automatisch 
     zum Jahresende. Die Frist beginnt mit dem auf die Absendung der Mahnung folgenden Tag.
     Es gilt das Datum des Poststempels.
+
+(6) Ein Mitglied kann per Vorstandsbeschluss von der Mitgliederliste gestrichen werden, wenn
+    sein Aufenthalt unbnekannt ist.
     
 ## § 5 Beiträge
 
@@ -131,6 +134,9 @@ Vorstand im Sinne des § 26 BGB sind:
     
 (7) Der Vorstand ist für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch
     die Satzung einem anderen Vereinsorgan zugewiesen sind.
+
+(8) Die Mitglieder des Vorstandes sind ehrenamtlich tätig. Die Mitgliederversammlung kann aber
+    beschließen, das ihnen eine Ehrenamtspauschale i.S. des §3 Nr. 26a EStG gewährt wird.
     
 ## § 8 Mitgliederversammlung
 
@@ -152,30 +158,30 @@ Vorstand im Sinne des § 26 BGB sind:
     Aufgaben zuständig, sofern bestimmte Aufgaben gemäß dieser Satzung nicht einem anderen Vereinsorgan
     übertragen wurden.
     Ihr sind insbesondere die Jahresrechnung und der Jahresbericht zur Beschlussfassung über die 
-    Genehmigung und Entlastung des Vorstands schriftlich vorzulegen. Sie bestellt zwei Rechnungsprüfer, die
+    Genehmigung und Entlastung des Vorstands schriftlich vorzulegen. Sie bestellt zwei Rechnungsprüfer und 
+    einen stellvertretenden Rechnugnsprüfer, die
     weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des
-    Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen und über das Ergebnis 
-    vor der Mitgliederversammlung zu berichten.
+    Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen. Die Rechnungsprüfer und der
+    Vorstand haben vor Erstellung des Schlussberichtes diesen gemeinsam zu erörtern. 
+    Das Ergebnis ist den Mitgliedern durch die Rechnungsprüfer vor der Mitgliederversammlung zu berichten.
     
-Die Mitgliederversammlung entscheidet z.B. auch über:
+    Die Mitgliederversammlung entscheidet z.B. auch über:
 
-a) den jährlichen Vereinshaushaltsplan, der vom Vorstand aufgestellt wurde,
+    a) die Aufgaben des Vereins,
 
-b) die Aufgaben des Vereins,
+    b) An- und Verkauf sowie Belastung von Grundbesitz,
 
-c) An- und Verkauf sowie Belastung von Grundbesitz,
+    c) Beteiligung an Gesellschaften, 
 
-d) Beteiligung an Gesellschaften, 
-
-e) Aufnahme von Darlehn ab € 1000,-,
+    d) Aufnahme von Darlehn ab € 1000,-,
     
-f) Genehmigung aller Geschäftsordnungen für den Vereinsbereich,
+    e) Genehmigung aller Geschäftsordnungen für den Vereinsbereich,
 
-g) Mitgliederbeiträge (§ 5),
+    f) Mitgliederbeiträge (§ 5),
 
-h) Satzungsänderungen,
+    g) Satzungsänderungen,
 
-i) Auflösung des Vereins.
+    h) Auflösung des Vereins.
 
 (5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlussfähig anerkannt, ohne Rücksicht
     auf die Zahl der erschienenen Vereinsmitglieder.
@@ -212,6 +218,10 @@ zulegen und von dem jeweiligen Versammlungsleiter und dem Protokollführer der S
     Vermögen des Vereins an den Deutschen Paritätischen Wohlfahrtsverband, Gruppe Nordrhein-Westfalen,
     der es ausschließlich und unmittelbar für gemeinnützige bzw. mildtätige Wohlfahrtszwecke zu 
     verwenden hat.
+    
+ Freusburg/Kirchen, 29.12.2024
+
+[Satzung PDF mit Unterschriften](/pdf/"Satzung_aktuell_Selbsthilfe_Freizeitwerk_eV_2025scan".pdf)
 
     
     
