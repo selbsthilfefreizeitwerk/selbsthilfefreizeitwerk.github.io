@@ -163,24 +163,15 @@ Vorstand im Sinne des § 26 BGB sind:
     weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und auch nicht Angestellte des
     Vereins sein dürfen, um die Buchführung einschließlich Jahresabschluss zu prüfen. Die Rechnungsprüfer und der
     Vorstand haben vor Erstellung des Schlussberichtes diesen gemeinsam zu erörtern. 
-    Das Ergebnis ist den Mitgliedern durch die Rechnungsprüfer vor der Mitgliederversammlung zu berichten.
-    
+    Das Ergebnis ist den Mitgliedern durch die Rechnungsprüfer vor der Mitgliederversammlung zu berichten.   
     Die Mitgliederversammlung entscheidet z.B. auch über:
-
     a) die Aufgaben des Vereins,
-
     b) An- und Verkauf sowie Belastung von Grundbesitz,
-
     c) Beteiligung an Gesellschaften, 
-
-    d) Aufnahme von Darlehn ab € 1000,-,
-    
+    d) Aufnahme von Darlehn ab € 1000,-,   
     e) Genehmigung aller Geschäftsordnungen für den Vereinsbereich,
-
     f) Mitgliederbeiträge (§ 5),
-
     g) Satzungsänderungen,
-
     h) Auflösung des Vereins.
 
 (5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlussfähig anerkannt, ohne Rücksicht
