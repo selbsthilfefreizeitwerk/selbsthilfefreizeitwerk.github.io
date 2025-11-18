@@ -165,6 +165,7 @@ Vorstand im Sinne des § 26 BGB sind:
     Vorstand haben vor Erstellung des Schlussberichtes diesen gemeinsam zu erörtern. 
     Das Ergebnis ist den Mitgliedern durch die Rechnungsprüfer vor der Mitgliederversammlung zu berichten.   
     Die Mitgliederversammlung entscheidet z.B. auch über:
+    
     a) die Aufgaben des Vereins,
     b) An- und Verkauf sowie Belastung von Grundbesitz,
     c) Beteiligung an Gesellschaften, 
