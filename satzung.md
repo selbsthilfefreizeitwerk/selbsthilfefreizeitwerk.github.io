@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 title: Satzung
 ---
 # Satzung des Vereins Selbsthilfe Freizeitwerk e.V. (Abschrift) Stand: 2025

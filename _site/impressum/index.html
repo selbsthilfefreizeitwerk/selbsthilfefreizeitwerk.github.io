@@ -1,7 +1,90 @@
-<hr>
-<h2>layout: default
-title: Impressum</h2>
-<h2>Impressum</h2>
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Selbsthilfe freizeitwerk e.V.</title>
+    <meta name="description"
+        content="Wir schaffen Raum für Begegnung, gemeinsame Erlebnisse und gegenseitige Unterstützung." />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .logo123 {
+            background-image: url("images/logo.png");
+        }
+    </style>
+</head>
+
+<body class="bg-white text-gray-800 antialiased">
+
+    <!-- Navbar -->
+    <nav class="bg-white border-b border-gray-100 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-20">
+                <!-- Logo -->
+                <div class="flex items-center">
+                    <a href="#" class="flex-shrink-0 flex items-center gap-2">
+                        <div class="logo123"><img src="images/logo.png" alt="Logo" width="100" height="40" />
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="font-bold text-xl leading-none text-gray-900 tracking-tight">Selbsthilfe</span>
+                            <span class="text-sm font-medium text-gray-600 leading-none">Freizeitwerk e.V.</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Desktop Menu -->
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#"
+                        class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-emerald-500 text-gray-900">Startseite</a>
+                    <a href="/satzung"
+                        class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Satzung</a>
+                    <a href="/aktivitaeten"
+                        class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Aktivitäten</a>
+                    <a href="/mitgliedschaft"
+                        class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Mitgliedschaft</a>
+                    <a href="/kontakt"
+                        class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Kontakt</a>
+                </div>
+
+                <!-- Mobile Menu Button -->
+                <div class="flex items-center md:hidden">
+                    <button id="mobile-menu-btn"
+                        class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-emerald-500">
+                        <span class="sr-only">Open main menu</span>
+                        <i id="icon-menu" data-lucide="menu" width="24" height="24"></i>
+                        <i id="icon-close" data-lucide="x" width="24" height="24" class="hidden"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100">
+            <div class="pt-2 pb-3 space-y-1">
+                <a href="#"
+                    class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium bg-emerald-50 border-emerald-500 text-emerald-700">Startseite</a>
+                <a href="#"
+                    class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Über
+                    Uns</a>
+                <a href="#"
+                    class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Aktivitäten</a>
+                <a href="#"
+                    class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Mitgliedschaft</a>
+                <a href="#"
+                    class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Kontakt</a>
+            </div>
+        </div>
+    </nav>
+    <div class="bg-white py-16 sm:py-24">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2>Impressum</h2>
 <h3>Sitz des Vereins:</h3>
 <p>Münster</p>
 <p>Er ist in das Vereinsregister beim Amtsgericht Münster eingetragen.</p>
@@ -10,3 +93,26 @@ title: Impressum</h2>
 c/o Eva Heymann<br>
 Im Niederfeld 8<br>60437 Frankfurt am Main</p>
 <h3>Trotz sorgfältiger Prüfung kann der Verein keine Haftung für Inhalte externer Links übernehmen.</h3>
+
+        </div>
+    </div>
+    <footer class="bg-white border-t border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="py-8 flex flex-wrap justify-between items-center">
+                <div class="flex-shrink-0 flex items-center">
+                    <a href="#" class="flex-shrink-0 flex items-center gap-2">
+                        <div class="logo123"><img src="images/logo.png" alt="Logo" width="100" height="40" />
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="font-bold text-xl leading-none text-gray-900 tracking-tight">Selbsthilfe</span>
+                            <span class="text-sm font-medium text-gray-600 leading-none">Freizeitwerk e.V.</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="flex-shrink-0 flex items-center gap-2">
+                    <a href="/impresssum" class="text-gray-600 hover:text-gray-900">Impressum</a>
+                    <a href="/datenschutz" class="text-gray-600 hover:text-gray-900">Datenschutz</a>
+                </div>
+            </div>
+        </div>
+    </footer>

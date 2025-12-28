@@ -1,38 +1,114 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Selbsthilfefreizeitwerk e.V.</title>
-    <meta name="description" content="Offizielle Homepage des Selbsthilfefreizeitwerk e.V.">
+<!DOCTYPE html>
+<html lang="de">
 
-    <meta name="keywords" lang="de" 
-     content="Freizeiten, Selbsthilfe, Selbsthilfegruppen, therapeutische Gemeinschaft, A-Freizeiten, Anonyme Alkoholiker, Alcoholics Anonymous, AA, CODA, SLAA, Al-Anon, Overeater Anonymous, Anonyme Arbeitssüchtige, AA-Gruppen, AA Gruppen, 12-Schritte-Gruppen, Sucht, Emotions Anonymous, Bad Herrenalber Modell, Recovery, Genesung, EKS, Erwachsene Kinder aus Dysfunktionalen Familien">
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <a href="index.html"><img src="images/logo-selbsthilfe-freizeitwerk.jpg"></a>
-        <p class="header">Homepage des Selbsthilfe-Freizeitwerk e.V.</p>
-        <nav>
- 	        <li><a href="https://www.a-freizeiten.de">A-Freizeiten</a></li>		      
-	    
-        <li><a href="https://www.selbsthilfe-freizeitwerk.de/pdf/Beitrittserklärung.pdf">Beitrittserklärung</a></li>
-        <li><a href="/impressum">Impressum</a></li>
-        <li><a href="mailto:webmaster@a-freizeiten.de">Mail an Webmaster</a></li>
-	<li><a href="/datenschutz">Datenschutzhinweis</a></li>
-        </nav>
-      </header>
-      <section>
-	      <div>Der Verein betreibt die Seite <a href="https://www.a-freizeiten.de">www.a-freizeiten.de</a></div>
-        <script language="javascript">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Selbsthilfe freizeitwerk e.V.</title>
+  <meta name="description"
+    content="Wir schaffen Raum für Begegnung, gemeinsame Erlebnisse und gegenseitige Unterstützung." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+
+    .logo123 {
+      background-image: url("images/logo.png");
+    }
+  </style>
+</head>
+
+<body class="bg-white text-gray-800 antialiased">
+
+  <!-- Navbar -->
+  <nav class="bg-white border-b border-gray-100 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between h-20">
+        <!-- Logo -->
+        <div class="flex items-center">
+          <a href="#" class="flex-shrink-0 flex items-center gap-2">
+            <div class="logo123"><img src="images/logo.png" alt="Logo" width="100" height="40" />
+            </div>
+            <div class="flex flex-col">
+              <span class="font-bold text-xl leading-none text-gray-900 tracking-tight">Selbsthilfe</span>
+              <span class="text-sm font-medium text-gray-600 leading-none">Freizeitwerk e.V.</span>
+            </div>
+          </a>
+        </div>
+
+        <!-- Desktop Menu -->
+        <div class="hidden md:flex items-center space-x-8">
+          <a href="#"
+            class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-emerald-500 text-gray-900">Startseite</a>
+          <a href="/satzung"
+            class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Satzung</a>
+          <a href="/aktivitaeten"
+            class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Aktivitäten</a>
+          <a href="/mitgliedschaft"
+            class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Mitgliedschaft</a>
+          <a href="/kontakt"
+            class="inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200 border-transparent text-gray-500 hover:text-emerald-600 hover:border-emerald-300">Kontakt</a>
+        </div>
+
+        <!-- Mobile Menu Button -->
+        <div class="flex items-center md:hidden">
+          <button id="mobile-menu-btn"
+            class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-emerald-500">
+            <span class="sr-only">Open main menu</span>
+            <i id="icon-menu" data-lucide="menu" width="24" height="24"></i>
+            <i id="icon-close" data-lucide="x" width="24" height="24" class="hidden"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100">
+      <div class="pt-2 pb-3 space-y-1">
+        <a href="#"
+          class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium bg-emerald-50 border-emerald-500 text-emerald-700">Startseite</a>
+        <a href="#"
+          class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Über
+          Uns</a>
+        <a href="#"
+          class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Aktivitäten</a>
+        <a href="#"
+          class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Mitgliedschaft</a>
+        <a href="#"
+          class="block pl-3 pr-4 py-2 border-l-4 text-base font-medium border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700">Kontakt</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <div class="relative">
+    <div class="absolute inset-0 overflow-hidden">
+      <img src="images/selbsthilfe-freizeitwerk-home.jpg" alt="Group of diverse people hiking in nature"
+        class="w-full h-full object-cover object-center opacity-90" />
+      <div class="absolute inset-0 bg-gradient-to-t from-gray-900/60 to-gray-900/20"></div>
+    </div>
+    <div
+      class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8 flex flex-col items-start justify-center min-h-[600px]">
+      <h1 class="text-4xl font-bold tracking-tight text-white sm:text-5xl lg:text-6xl mb-6 max-w-3xl">
+        In Gemeinschaft leben auf Zeit: A-Freizeiten
+      </h1>
+      <p class="mt-2 text-xl text-gray-100 max-w-2xl font-light leading-relaxed">
+        A-Freizeiten sind Selbsthilfeveranstaltungen von Mitgliedern aus Gruppen, die nach einem
+        12-Schritte-Programm nach dem Vorbild der Anonymen Alkoholiker arbeiten.</p>
+      <p class="mt-2 text-xl text-gray-100 max-w-2xl font-light leading-relaxed">
+        Freizeiten, die im Namen des Selbsthilfe Freizeitwerks e.V. veranstaltet werden, erzielen grundsätzlich keine
+        Gewinne. Eventuelle Überschüsse werden den an der Freizeit teilnehmenden Vereinsmitgliedern erstattet.</p>
+      <p class="mt-2 text-xl text-gray-100 max-w-2xl font-light leading-relaxed">
+        Die Freizeiten stehen auch Nichtmitgliedern offen, sofern sie die Voraussetzungen zur Teilnahme an A-Freizeiten
+        erfüllen. Vereinsmitglieder haben jedoch Vorrang bei der Platzvergabe.</p>
+    </div>
+  </div>
+  <div class="bg-white py-16 sm:py-24">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <script language="javascript">
   
   if(document.URL.endsWith("Einladung+Ostern.pdf")){
     window.location.href="http://www.a-freizeiten.de/pdf/BremenOstern2016.pdf";
@@ -47,9 +123,139 @@
 <p>Homepage <a href="http://www.a-freizeiten.de">A-Freizeiten</a></p>
 <p>Kontakt zum <a href="mailto:webmaster@a-freizeiten.de">Webmaster</a></p>
 
-      </section>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  </div>
 
-  </body>
+  <!-- Info Section (Mission, Vision, Values) -->
+  <div class="bg-white py-16 sm:py-24">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+      <!-- Main Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-12">
+
+        <!-- Column 1: Mission -->
+        <div class="flex flex-col">
+          <div class="rounded-xl overflow-hidden shadow-sm mb-6 aspect-[4/3]">
+            <img src="images/logo-selbsthilfe-freizeitwerk.jpg" alt="Seniors gardening together"
+              class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+          </div>
+          <h2 class="text-2xl font-bold text-gray-900 mb-4">Unsere Mission</h2>
+          <p class="text-gray-600 leading-relaxed text-sm lg:text-base">
+            Unser Ziel ist es, Menschen durch gemeinsame Freizeitaktivitäten zu verbinden, Selbsthilfe zu fördern und
+            Lebensfreude zu stärken. Wir glauben an die Kraft der Gemeinschaft, um Herausforderungen zu bewältigen und
+            soziale Isolation zu überwinden.
+          </p>
+        </div>
+
+        <!-- Column 2: Vision -->
+        <div class="flex flex-col">
+          <div class="rounded-xl overflow-hidden shadow-sm mb-6 aspect-[4/3]">
+            <img src="images/logo-selbsthilfe-freizeitwerk.jpg" alt="People cooking together in a kitchen"
+              class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+          </div>
+          <h2 class="text-2xl font-bold text-gray-900 mb-4">Unsere Vision</h2>
+          <p class="text-gray-600 leading-relaxed text-sm lg:text-base">
+            Wir streben eine Welt an, in der jeder Zugang zu einer unterstützenden Gemeinschaft hat, in der Vielfalt
+            geschätzt wird und in der Freizeitgestaltung zur persönlichen Entfaltung und zum Wohlbefinden aller
+            beiträgt.
+          </p>
+        </div>
+
+        <!-- Column 3: Values & Extra Image -->
+        <div class="flex flex-col h-full justify-between gap-8">
+          <div>
+            <h2 class="text-2xl font-bold text-gray-900 mb-6">Unsere Werte</h2>
+            <ul class="space-y-6">
+              <!-- Value 1 -->
+              <li class="flex items-start">
+                <div class="flex-shrink-0 mr-4 mt-1">
+                  <div class="bg-orange-100 p-2 rounded-full text-orange-600">
+                    <i data-lucide="heart" width="20" height="20" stroke-width="2.5"></i>
+                  </div>
+                </div>
+                <div>
+                  <p class="text-sm lg:text-base text-gray-600">
+                    <span class="font-bold text-gray-900">Gemeinschaft:</span> Wir sind füreinander da und stärken den
+                    Zusammenhalt.
+                  </p>
+                </div>
+              </li>
+              <!-- Value 2 -->
+              <li class="flex items-start">
+                <div class="flex-shrink-0 mr-4 mt-1">
+                  <div class="bg-orange-100 p-2 rounded-full text-orange-600">
+                    <i data-lucide="handshake" width="20" height="20" stroke-width="2.5"></i>
+                  </div>
+                </div>
+                <div>
+                  <p class="text-sm lg:text-base text-gray-600">
+                    <span class="font-bold text-gray-900">Inklusion:</span> Jeder ist willkommen, unabhängig von
+                    Engagement: Wir gestalten aktiv unsere Freizeit und unterstützen uns gegenseitig.
+                  </p>
+                </div>
+              </li>
+              <!-- Value 3 -->
+              <li class="flex items-start">
+                <div class="flex-shrink-0 mr-4 mt-1">
+                  <div class="bg-orange-100 p-2 rounded-full text-orange-600">
+                    <i data-lucide="message-circle" width="20" height="20" stroke-width="2.5"></i>
+                  </div>
+                </div>
+                <div>
+                  <p class="text-sm lg:text-base text-gray-600">
+                    <span class="font-bold text-gray-900">Respekt:</span> Wir begegnen einander mit Wertschätzung und
+                    Offenheit.
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div class="rounded-xl overflow-hidden shadow-sm mt-auto aspect-[16/9] lg:aspect-[4/3]">
+            <img
+              src="https://images.unsplash.com/photo-1606167668584-78701c57f13d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+              alt="Friends playing board games"
+              class="w-full h-full object-cover hover:scale-105 transition-transform duration-500" />
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t border-gray-100 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+
+        <div class="text-xs text-gray-500 text-center md:text-left">
+          <p>Selbsthilfe freizeitwerk e.V. - Musterstraße 12, 12345 Musterstadt</p>
+          <p class="mt-1">Tel: 030 1234567 - Email: info@selbsthilfe-freizeitwerk.de</p>
+        </div>
+
+        <div class="flex items-center space-x-6 text-sm text-gray-600">
+          <a href="#impressum" class="hover:text-emerald-600 transition-colors">Impressum</a>
+          <a href="#datenschutz" class="hover:text-emerald-600 transition-colors">Datenschutz</a>
+
+          <div class="flex items-center space-x-3 pl-2 border-l border-gray-200">
+            <a href="#" class="text-gray-400 hover:text-blue-600 transition-colors">
+              <span class="sr-only">Facebook</span>
+              <i data-lucide="facebook" width="18" height="18"></i>
+            </a>
+            <a href="#" class="text-gray-400 hover:text-blue-400 transition-colors">
+              <span class="sr-only">Twitter</span>
+              <i data-lucide="twitter" width="18" height="18"></i>
+            </a>
+            <a href="#" class="text-gray-400 hover:text-pink-600 transition-colors">
+              <span class="sr-only">Instagram</span>
+              <i data-lucide="instagram" width="18" height="18"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
 </html>

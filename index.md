@@ -1,15 +1,8 @@
 ---
-layout: main
+layout: default
 title: Home
 ---
 
-
-## In Gemeinschaft leben auf Zeit: A-Freizeiten
-
-A-Freizeiten sind Selbsthilfeveranstaltungen von Mitgliedern aus Gruppen, die nach einem
-12-Schritte-Programm nach dem Vorbild der Anonymen Alkoholiker arbeiten.
-Freizeiten, die im Namen des Selbsthilfe Freizeitwerks e.V. veranstaltet werden, erzielen grundsätzlich keine Gewinne. Eventuelle Überschüsse werden den an der Freizeit teilnehmenden Vereinsmitgliedern erstattet.
-Die Freizeiten stehen auch Nichtmitgliedern offen, sofern sie die Voraussetzungen zur Teilnahme an A-Freizeiten erfüllen. Vereinsmitglieder haben jedoch Vorrang bei der Platzvergabe.
 
 ### Freizeittermine
 

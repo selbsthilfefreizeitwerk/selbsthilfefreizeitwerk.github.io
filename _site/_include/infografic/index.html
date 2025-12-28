@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A-Freizeiten: Infografik</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Palette: Fresh & Energetic (Teal, Cyan, Deep Blue)
+         Primary: #00838F (Teal 800)
+         Secondary: #00BCD4 (Cyan 500)
+         Accent: #FFC107 (Amber 500 - for contrast/highlights)
+         Background: #E0F7FA (Cyan 50)
+         Surface: #FFFFFF (White)
+    -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #E0F7FA;
+            color: #37474F;
+        }
+
+        /* Custom Chart Container Styles */
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 300px;
+            /* Base height */
+            max-height: 400px;
+        }
+
+        @media (min-width: 768px) {
+            .chart-container {
+                height: 350px;
+            }
+        }
+
+        .card-shadow {
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .card-shadow:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+
+        .gradient-header {
+            background: linear-gradient(135deg, #00838F 0%, #00BCD4 100%);
+        }
+    </style>
+    <!-- 
+    NARRATIVE PLAN:
+    1. Header: Introduction to A-Freizeiten.
+    2. Section 1: Core Pillars (Community, Recovery, Rest) - HTML Cards.
+    3. Section 2: Financial Model (No Profit Rule) - Pie Chart showing surplus redistribution.
+    4. Section 3: Participation (Priority Rules) - Bar Chart comparing access levels.
+    5. Footer: Summary.
+
+    VISUALIZATION CHOICES (NO SVG, NO MERMAID):
+    - Financials: Doughnut Chart (Chart.js) -> Goal: Inform/Compare (Revenue breakdown). Rationale: Clearly shows the "slice" that goes back to members.
+    - Participation: Bar Chart (Chart.js) -> Goal: Compare (Priority Level). Rationale: Visually ranks the access priority between members and non-members.
+    - Icons: Unicode characters.
+    
+    CONFIRMATION:
+    - NO SVG used.
+    - NO Mermaid JS used.
+    -->
+</head>
+
+<body class="antialiased">
+
+    <!-- Header Section -->
+    <header class="gradient-header text-white py-12 px-4 shadow-lg mb-8">
+        <div class="max-w-6xl mx-auto text-center">
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">A-Freizeiten</h1>
+            <p class="text-xl md:text-2xl font-light opacity-90">In Gemeinschaft leben auf Zeit</p>
+            <div class="mt-8 flex justify-center space-x-4">
+                <span class="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">Selbsthilfe</span>
+                <span
+                    class="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">12-Schritte-Programm</span>
+                <span class="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">Erholung</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto px-4 space-y-12 pb-12">
+
+        <!-- Introduction Section -->
+        <section class="bg-white rounded-xl card-shadow p-8">
+            <h2 class="text-3xl font-bold text-cyan-800 mb-6 border-b-2 border-cyan-100 pb-2">Was sind A-Freizeiten?
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                <div>
+                    <p class="text-gray-600 text-lg leading-relaxed mb-4">
+                        A-Freizeiten sind spezielle Selbsthilfeveranstaltungen, die nach dem Vorbild der Anonymen
+                        Alkoholiker arbeiten. Sie bieten einen geschützten Raum für Menschen, die sich aktiv mit einem
+                        12-Schritte-Programm auseinandersetzen.
+                    </p>
+                    <p class="text-gray-600 text-lg leading-relaxed">
+                        Organisiert werden diese Freizeiten ehrenamtlich von Mitgliedern der Gruppen unter dem Dach des
+                        <strong>Selbsthilfe Freizeitwerks e.V.</strong>
+                    </p>
+                </div>
+                <div class="grid grid-cols-1 gap-4">
+                    <div class="flex items-center p-4 bg-cyan-50 rounded-lg border-l-4 border-cyan-500">
+                        <span class="text-3xl mr-4">🤝</span>
+                        <div>
+                            <h3 class="font-bold text-cyan-900">Gemeinschaft</h3>
+                            <p class="text-sm text-cyan-700">Austausch mit Gleichgesinnten</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center p-4 bg-cyan-50 rounded-lg border-l-4 border-cyan-500">
+                        <span class="text-3xl mr-4">🔋</span>
+                        <div>
+                            <h3 class="font-bold text-cyan-900">Erholung</h3>
+                            <p class="text-sm text-cyan-700">Abstand vom Alltag</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center p-4 bg-cyan-50 rounded-lg border-l-4 border-cyan-500">
+                        <span class="text-3xl mr-4">🔄</span>
+                        <div>
+                            <h3 class="font-bold text-cyan-900">Genesung</h3>
+                            <p class="text-sm text-cyan-700">Vertiefung der 12 Schritte</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Financial Model Section -->
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white rounded-xl card-shadow p-8 flex flex-col justify-center">
+                <h2 class="text-2xl font-bold text-cyan-800 mb-4">Das "Non-Profit" Prinzip</h2>
+                <p class="text-gray-600 mb-6">
+                    Ein zentrales Merkmal der A-Freizeiten ist die <strong>Gewinnfreiheit</strong>. Die Veranstaltungen
+                    dienen keinem kommerziellen Zweck.
+                </p>
+                <ul class="space-y-3 mb-6">
+                    <li class="flex items-start">
+                        <span class="text-green-500 mr-2 font-bold">✓</span>
+                        <span class="text-gray-700">Keine Gewinnerzielungsabsicht</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="text-green-500 mr-2 font-bold">✓</span>
+                        <span class="text-gray-700">Transparente Kostenkalkulation</span>
+                    </li>
+                    <li class="flex items-start">
+                        <span class="text-green-500 mr-2 font-bold">✓</span>
+                        <span class="text-gray-700">Rückerstattung von Überschüssen an Vereinsmitglieder</span>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Visualization: Financial Breakdown -->
+            <div class="bg-white rounded-xl card-shadow p-8">
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Finanzfluss Modell</h3>
+                <p class="text-sm text-gray-500 mb-6">Beispielhafte Darstellung der Mittelverwendung bei einem
+                    Überschuss.</p>
+
+                <div class="chart-container">
+                    <canvas id="financeChart"></canvas>
+                </div>
+                <p class="text-center text-xs text-gray-400 mt-4">Visualisierung: Chart.js Canvas Rendering</p>
+            </div>
+        </section>
+
+        <!-- Participation Rules Section -->
+        <section class="bg-white rounded-xl card-shadow p-8">
+            <div class="mb-8">
+                <h2 class="text-3xl font-bold text-cyan-800 mb-4">Wer kann teilnehmen?</h2>
+                <p class="text-gray-600 max-w-2xl">
+                    Die Freizeiten sind offen gestaltet, folgen aber einer klaren Prioritätenregelung bei der
+                    Platzvergabe, um den Vereinszweck zu fördern.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <!-- Text Content -->
+                <div class="lg:col-span-1 space-y-6">
+                    <div class="bg-blue-50 p-4 rounded-lg border border-blue-100">
+                        <h4 class="font-bold text-blue-900 mb-1">Vereinsmitglieder</h4>
+                        <p class="text-sm text-blue-800">Haben grundsätzlich <strong>Vorrang</strong> bei der
+                            Platzvergabe. Sie tragen den Verein und erhalten eventuelle Überschüsse zurück.</p>
+                    </div>
+                    <div class="bg-gray-50 p-4 rounded-lg border border-gray-200">
+                        <h4 class="font-bold text-gray-800 mb-1">Nichtmitglieder</h4>
+                        <p class="text-sm text-gray-600">Sind herzlich willkommen, <strong>sofern</strong> sie die
+                            Teilnahmevoraussetzungen für A-Freizeiten (z.B. Zugehörigkeit zu 12-Schritte-Gruppen)
+                            erfüllen.</p>
+                    </div>
+                </div>
+
+                <!-- Visualization: Priority Comparison -->
+                <div class="lg:col-span-2">
+                    <div class="chart-container">
+                        <canvas id="participationChart"></canvas>
+                    </div>
+                    <div class="mt-4 text-center">
+                        <p class="text-sm font-medium text-gray-500">
+                            Vergleich der Platzvergabepriorität und Zugangsvoraussetzungen
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Qualitative Summary / Process Flow (HTML Implementation) -->
+        <section class="bg-cyan-900 rounded-xl card-shadow p-8 text-white">
+            <h2 class="text-2xl font-bold mb-8 text-center">Der Weg zur Teilnahme</h2>
+
+            <div class="flex flex-col md:flex-row justify-between items-center space-y-8 md:space-y-0 relative">
+                <!-- Connecting Line (Desktop) -->
+                <div
+                    class="hidden md:block absolute top-1/2 left-0 w-full h-1 bg-cyan-700 -z-0 transform -translate-y-1/2">
+                </div>
+
+                <!-- Step 1 -->
+                <div class="relative z-10 w-full md:w-1/3 flex flex-col items-center text-center px-4">
+                    <div
+                        class="w-16 h-16 bg-amber-400 rounded-full flex items-center justify-center text-2xl font-bold text-cyan-900 mb-4 shadow-lg border-4 border-cyan-800">
+                        1
+                    </div>
+                    <h3 class="font-bold text-lg mb-2">Interesse</h3>
+                    <p class="text-cyan-100 text-sm">Prüfung der Voraussetzungen (12-Schritte-Hintergrund).</p>
+                </div>
+
+                <!-- Step 2 -->
+                <div class="relative z-10 w-full md:w-1/3 flex flex-col items-center text-center px-4">
+                    <div
+                        class="w-16 h-16 bg-amber-400 rounded-full flex items-center justify-center text-2xl font-bold text-cyan-900 mb-4 shadow-lg border-4 border-cyan-800">
+                        2
+                    </div>
+                    <h3 class="font-bold text-lg mb-2">Anmeldung</h3>
+                    <p class="text-cyan-100 text-sm">Anmeldung beim Selbsthilfe Freizeitwerk e.V.</p>
+                </div>
+
+                <!-- Step 3 -->
+                <div class="relative z-10 w-full md:w-1/3 flex flex-col items-center text-center px-4">
+                    <div
+                        class="w-16 h-16 bg-amber-400 rounded-full flex items-center justify-center text-2xl font-bold text-cyan-900 mb-4 shadow-lg border-4 border-cyan-800">
+                        3
+                    </div>
+                    <h3 class="font-bold text-lg mb-2">Vergabe</h3>
+                    <p class="text-cyan-100 text-sm">Platzvergabe nach Priorität (Mitglieder vorrangig).</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-cyan-950 text-cyan-200 py-8 text-center">
+        <div class="max-w-6xl mx-auto px-4">
+            <p>&copy; 2025 Infografik Demonstration. Basierend auf "A-Freizeiten: In Gemeinschaft leben auf Zeit".</p>
+        </div>
+    </footer>
+
+    <script>
+        // --- UTILITY: Label Wrapping Logic (Strictly < 16 chars per line) ---
+        function wrapLabel(label) {
+            if (label.length <= 16) return label;
+            const words = label.split(' ');
+            const lines = [];
+            let currentLine = words[0];
+
+            for (let i = 1; i < words.length; i++) {
+                if ((currentLine + " " + words[i]).length <= 16) {
+                    currentLine += " " + words[i];
+                } else {
+                    lines.push(currentLine);
+                    currentLine = words[i];
+                }
+            }
+            lines.push(currentLine);
+            return lines;
+        }
+
+        // --- COMMON CHART CONFIGURATION ---
+        Chart.defaults.font.family = "'Roboto', sans-serif";
+        Chart.defaults.color = '#546E7A';
+        Chart.defaults.scale.grid.color = '#ECEFF1';
+
+        // Tooltip Callback for Multiline Support
+        const tooltipConfig = {
+            callbacks: {
+                title: function (tooltipItems) {
+                    const item = tooltipItems[0];
+                    let label = item.chart.data.labels[item.dataIndex];
+                    if (Array.isArray(label)) {
+                        return label.join(' ');
+                    } else {
+                        return label;
+                    }
+                }
+            }
+        };
+
+        // --- CHART 1: Financial Model (Doughnut) ---
+        const ctxFinance = document.getElementById('financeChart').getContext('2d');
+        const financeLabelsRaw = ['Veranstaltungs- kosten', 'Rückerstattung (Mitglieder)', 'Kommerzieller Gewinn'];
+        const financeLabels = financeLabelsRaw.map(wrapLabel);
+
+        new Chart(ctxFinance, {
+            type: 'doughnut',
+            data: {
+                labels: financeLabels,
+                datasets: [{
+                    label: 'Verteilung der Einnahmen',
+                    data: [85, 15, 0], // Simulated Data: 85% Costs, 15% Surplus, 0% Profit
+                    backgroundColor: [
+                        '#00BCD4', // Cyan 500 (Costs)
+                        '#FFC107', // Amber 500 (Refund)
+                        '#E91E63'  // Pink (Profit - not visible ideally)
+                    ],
+                    borderWidth: 0,
+                    hoverOffset: 10
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            padding: 20,
+                            usePointStyle: true
+                        }
+                    },
+                    tooltip: tooltipConfig,
+                    title: {
+                        display: true,
+                        text: 'Verwendung von Teilnahmebeiträgen (Modell)',
+                        padding: { top: 10, bottom: 20 }
+                    }
+                },
+                cutout: '60%'
+            }
+        });
+
+        // --- CHART 2: Participation Priority (Bar) ---
+        const ctxParticipation = document.getElementById('participationChart').getContext('2d');
+        const partLabelsRaw = ['Vereins- mitglieder', 'Nicht- mitglieder'];
+        const partLabels = partLabelsRaw.map(wrapLabel);
+
+        new Chart(ctxParticipation, {
+            type: 'bar',
+            data: {
+                labels: partLabels,
+                datasets: [{
+                    label: 'Priorität bei Platzvergabe (1-10)',
+                    data: [10, 6], // Abstract "Priority Score"
+                    backgroundColor: [
+                        '#00838F', // High Priority (Teal 800)
+                        '#B2EBF2'  // Lower Priority (Cyan 100)
+                    ],
+                    borderRadius: 8,
+                    barPercentage: 0.6
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 12,
+                        title: {
+                            display: true,
+                            text: 'Prioritätsstufe'
+                        },
+                        ticks: {
+                            display: false // Hide numbers for abstract concept
+                        },
+                        grid: {
+                            display: false
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: tooltipConfig,
+                    title: {
+                        display: true,
+                        text: 'Vergleich der Platzgarantie',
+                        font: { size: 16 }
+                    }
+                }
+            }
+        });
+
+    </script>
+</body>
+
+</html>
