@@ -31,4 +31,4 @@ Außerdem werden bei einer Freizeit eventuell entstandene Überschüsse den teil
 
 ### Beitrittserklärung
 
-Die Beitrittserklärung können Sie als <a href="pdf/Beitrittserklärung.pdf">pdf</a> herunterladen.
+Die Beitrittserklärung können Sie als <a href="pdf/Beitrittserkl%C3%A4rung_SHFW_12_25.pdf">pdf</a> herunterladen.
