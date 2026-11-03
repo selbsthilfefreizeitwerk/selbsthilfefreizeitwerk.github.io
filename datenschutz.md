@@ -23,6 +23,6 @@ Verantwortlich im Sinne des Art. 13 Abs 1 lit. a) DS-GVO:
 
 Selbsthilfe Freizeitwerk e.V.
 
-c/o Eva Heymann
-Im Niederfeld 8
+c/o Eva Heymann<br/>
+Im Niederfeld 8<br/>
 60437 Frankfurt
